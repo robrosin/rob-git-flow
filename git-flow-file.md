@@ -1,2 +1,2 @@
 Pawan Poudel - Engineering Manager
-Rob Rosin - Associate QA Engineer
+Jake Campbell - Associate QA Engineer
